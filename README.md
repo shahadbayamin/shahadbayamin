@@ -9,7 +9,7 @@
 I'm a Computer Science graduate who loves turning ideas into useful, good-looking applications — from playful interactive websites to real-world platforms like **Aoun**, a medical imaging sharing system for hospitals.
 
 - 🎓 **Education:** Bachelor's degree in Computer Science.
-- 💡 **Interests:** Artificial Intelligence, Web Development, and UI/UX Design.
+- 💡 **Interests:** Artificial Intelligence, Computer Vision, Smart Applications, Web Development, and UI/UX Design.
 - 🌱 **Current Focus:** Building full-stack apps with TypeScript and growing my AI skills.
 - 🎯 **Core Philosophy:** Clean code, creative design, and experiences people enjoy using.
 
