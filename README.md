@@ -38,9 +38,9 @@ I'm a Computer Science graduate who loves turning ideas into useful, good-lookin
 | Project | Description |
 |---|---|
 | [**Aoun**](https://github.com/shahadbayamin/aoun) | Medical imaging sharing platform between hospitals, with a QR digital patient card. |
-| [**XO Game**](https://github.com/shahadbayamin/XO-Game) | Responsive XO game with Player vs Player and Player vs Computer modes. |
-| [**Pokémon Birthday Website**](https://github.com/shahadbayamin/-Pok-mon-Birthday-Website) | Interactive birthday site with music, puzzles, and messages. |
-| [**Starry Sign-Up Page**](https://github.com/shahadbayamin/Elegant-Starry-Sign-Up-Page) | Elegant animated starry sign-up page with a glowing cursor. |
+| **Mudabbir** 🔒 | Bilingual (Arabic/English) subscription manager — scan or upload a bill to auto-extract the service, price and renewal dates, with smart renewal reminders. |
+| **Purrload** 🔒 | macOS menu-bar app + Safari extension to download videos from almost any website in one click. |
+| **Purrslate** 🔒 | Browser extension for learning English while watching videos — Arabic subtitle translation, instant word lookup with pronunciation, and smart flashcards. |
 
 ---
 
