@@ -1,4 +1,4 @@
-# Hi there, I'm Shahad 👋
+# Hello World! I'm Shahad 👩‍💻👋
 
 <p align="center"><b>Computer Science Graduate | AI & Software Developer</b></p>
 
