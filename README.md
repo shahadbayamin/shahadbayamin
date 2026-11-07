@@ -10,8 +10,8 @@ I'm a Computer Science graduate who loves turning ideas into useful, good-lookin
 
 - 🎓 **Education:** Bachelor's degree in Computer Science.
 - 💡 **Interests:** Artificial Intelligence, Computer Vision, Smart Applications, Web Development, and UI/UX Design.
-- 🌱 **Current Focus:** Building full-stack apps with TypeScript and growing my AI skills.
-- 🎯 **Core Philosophy:** Clean code, creative design, and experiences people enjoy using.
+- 🌱 **Current Focus:** Developing scalable full-stack applications with TypeScript while advancing my expertise in AI and Computer Vision.
+- 🎯 **Core Philosophy:** Writing clean, maintainable code and designing intuitive solutions that create real-world impact.
 
 ---
 
